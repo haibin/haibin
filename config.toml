@@ -1,0 +1,6 @@
+baseurl = "http://haibin.github.com/"
+languageCode = "en-us"
+title = "My Site"
+
+[Params]
+  Author = "Haibin Liu"
