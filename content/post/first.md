@@ -6,3 +6,7 @@ title = "First"
 +++
 
 This is the beginning post of the new site.
+
+```bash
+$ ls
+```
