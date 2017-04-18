@@ -1,6 +1,8 @@
-baseurl = "http://haibin.github.com/"
+theme = "hugo-theme-bootstrap4-blog"
+baseurl = "http://haibin.github.io/"
 languageCode = "en-us"
-title = "My Site"
+title = "Life As A Software Engineer"
 
 [Params]
   Author = "Haibin Liu"
+  disqusShortname = "haibin-github"

@@ -3,14 +3,14 @@
 ## Preview locally
 
 ```bash
-$ hugo server --theme=hugo-theme-bleak --buildDrafts
+$ hugo server --buildDrafts
 ```
 Go to http://localhost:1313/
 
 ## How to deploy
 ```bash
 $ cd haibin
-$ hugo --theme=hugo-theme-bleak
+$ hugo
 $ cp -r public/ ../haibin.github.io
 
 $ cd ../haibin.github.io
